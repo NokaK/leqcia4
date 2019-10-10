@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+
+
+.font {
+	font-family: "ALKDots", sans-serif;
+	font-size: 50px;
+	margin-bottom: 50px;
+}
+.font2{
+	font-family: 'ALK Sanet';
+	font-size: 50px;
+	margin-bottom: 50px;
+}
+.english-font{
+	font-size: 50px;
+	margin-bottom: 50px;
+	font-family: 'Mansalva', cursive;
+}
+.english-font2{
+	font-size: 50px;
+	margin-bottom: 50px;
+	font-family: 'IndieFlower-Regular';
+}

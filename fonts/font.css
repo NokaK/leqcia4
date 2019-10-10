@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'IndieFlower-Regular';
+  src: url('IndieFlower-Regular.eot');
+  src: url('IndieFlower-Regular.eot?#iefix') format('embedded-opentype'),
+       url('IndieFlower-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IndieFlower';
+  src: url('IndieFlower.svg#IndieFlower') format('svg'),
+       url('IndieFlower.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
